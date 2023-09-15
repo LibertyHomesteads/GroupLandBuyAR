@@ -1,7 +1,6 @@
 # Homestead Community, LLC 
 #### Founding Documents: Articles of Organization and LLC Operating Agreement
-#### Arkansas, USA 
-#### Return to the Land: Ozarks chapter
+  
        
 ## Articles of Organization
 
@@ -50,31 +49,33 @@ john.smith@email.com
    4. Isabella Anderson (secretary)
 3. **Board Elections:** 60 days before the end of the board's term, elections shall be held. Class A and B members may vote, with a simple majority being necessary for a candidate to win. If no candidate in a given race achieves a simple majority, a run-off election will be held.
 4. **Manager Removal:** The board may remove a manager with a 3/4 majority vote, and may replace the manager for the remainder of that term with someone of their choosing. The Class A and B members may remove a manager with a vote of unanimity of their total interest minus a possible 5% dissenting votes, and in this case, the board will also replace that manager with someone of the board's choosing for the duration of the term. Class C members may not participate in any management decisions (unless one is appointed as a manager) and may not officially vote on any matter relating to the LLC. If a manager resigns during his term, the board may replace him with a manager of their choosing for the remainder of the term.  
-5. **Authorized Representative:** Either the president and vice president's signature shall be required to sign all manner of legally binding contracts public and private, title deeds, sale contracts, or any other official document, including the opening of bank accounts in the name of the LLC. 
+5. **Authorized Representative:** Either the president and vice president's signature shall be required to sign all manner of legally binding contracts public and private, title deeds, sale contracts, or any other official document.  
 6. **Legal Representation:** Either the president or the vice president's signature are necessary to take legal action on behalf of the LLC including filing lawsuits and other legal claims, defending against legal actions, retaining an attorney, settling cases, granting legal power of attorney, and any other legal representation that may be necessary for the smooth operation of the LLC.  
-7. **Checks and Payments:** Either the president or treasurer may sign checks or make online transfers from the LLC's bank account, and may request and receive payment for services, request invoices, make promises of payments, place orders with vendors and suppliers, hire contractors and contract jobs, rent equipment, take out insurance policies, etc.
+7. **Checks and Payments, Bank Transactions:** Either the president or treasurer may sign checks or make online transfers from the LLC's bank account, and may request and receive payment for services, request invoices, make promises of payments, place orders with vendors and suppliers, hire contractors and contract jobs, rent equipment, take out insurance policies, etc. Either the president or treasurer may open bank accounts and payment processor accounts for the LLC. 
 8. **Loan Limitations:** The Board of Managers are prohibited from taking out loans or other forms of financing that cause the LLC to have negative equity, or that result in total liabilities that are valued at more than 25% of the value of the LLC's assets. 
 9. **Sale of real estate:** For the sale of real estate, the president's signature is required, and it must be authorized by the totality of Class A and B shareholders minus a possible maximum of 5% of dissent of their total interest. 
 10. **Sale of Moveable Assets:** For the sale of vehicles or other titled and valuable equipment, the president or vice president's signature is required, and it must be authorized by a 2/3 vote of the board of managers. For any non-titled or less valuable assets, any manager is authorized to dispose of, sell, or otherwise administer on behalf of the LLC. 
 11. **Voting Rights:** Class A and Class B members shall have voting rights, with voting power proportionate to their respective share size. Class C members shall not have voting rights.
 12. **Electronic Signatures:** All members shall be required to maintain and use an electronic signature for remote document signatures, proxies, and other official LLC business.
 13. **Vote Requirements:** A 2/3 vote of the board of managers shall be required for the following:  
-   11.1 - Amend/restate a written operating agreement for the purposes of changing membership after a legitimate sale of membership interest following the Operating Agreement  
-   11.2 - Amend/restate a written operating agreement for the purpose of changing the board of managers list after a legitimate election of new board members, or a removal and change of board member(s) following the Operating Agreement.  
-   11.3 - Amend/restate a written operating agreement for the purpose of adding an operating budget and detailing the required contributions, after a legitimate ratification of that budget following the Operating Agreement.  
-   11.3 - Issue an interest in the limited liability company to any person and admit such person as a member  
-   11.4 - Authorize any transaction, agreement or action on behalf of the limited liability company that is unrelated to its purpose as set forth in the articles of organization, that otherwise contravenes the operating agreement or that is not within the usual course of the business of the limited liability company  
-   11.4 - Determine, modify, compromise or release the amount and character of the contributions which a member shall make, or shall promise to make, as the consideration for the issuance of an interest in the limited liability company  
-14. **Change of Management Status or Dissolution:** An affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes shall be required for the following:  
+   13.1 - Amend/restate a written operating agreement for the purposes of changing membership after a legitimate transfer of membership interest following the Operating Agreement  
+   13.2 - Amend/restate a written operating agreement for the purpose of changing the board of managers list after a legitimate election of new board members, or a removal and change of board member(s) following the Operating Agreement.  
+   13.3 - Amend/restate a written operating agreement for the purpose of adding an operating budget and detailing the required contributions, after a legitimate ratification of that budget following the Operating Agreement.
+   13.4 - Amend/restate a written operating agreement for the purpose of correcting a minor error, and making minor, inconsequential changes in the course of normal business such as changing contact information for members, the LLC, the registered agent, etc. 
+   13.5 - Issue an interest in the limited liability company to any person and admit such person as a member, provided the Operating Agreement was followed in the issuing of the interest.   
+   13.6 - Authorize any transaction, agreement or action on behalf of the limited liability company that is unrelated to its purpose as set forth in the articles of organization, that otherwise contravenes the operating agreement or that is not within the usual course of the business of the limited liability company  
+   13.7 - Determine, modify, compromise or release the amount and character of the contributions which a member shall make, or shall promise to make, as the consideration for the issuance of an interest in the limited liability company
+14. **Future Authorization Without Signature:** All members hereby authorize all future amendments and restatements of the LLC Operating Agreement and Articles of Organization provided the changes follow the above regulations, and therefore will not need to re-sign such amendments and restatements unless the changes are outside the scope of the above regulations.     
+15. **Change of Management Status or Dissolution:** An affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes shall be required for the following:  
    12.1 - Change the status of the limited liability company from one in which management is vested in the members to one in which management is vested in one or more managers, or vice versa   
    12.2 - Dissolution of the LLC (See the relevant article in this Operating Agreement.)   
-15. **Amendment:** An affirmative or abstention vote from 3/4 of all Class A and B member interests shall be required to amend or restate the operating agreement or articles of organization for any reason other than that mentioned in the previous clauses in this article. 
-16. **Member Class Voting Rights:** To decide any matter connected with the business or affairs of the limited liability company, including those listed in the previous clauses of this article, the Class C members shall have no vote, and the Class A and B shares shall each have a vote that is equal in power to their ownership interest divided by the total of all Class A and B interests. (e.g. if total Class A + B interest is 60%, a 10% Class A owner shall have approximately 16.67% of the total vote.)
-17. **Board Responsibilities**: The board members shall fulfill the following duties, shall ensure all activities of the LLC are exercised in a way that demonstrates financial prudence, as well as any other duties considered to be reasonable and within the realm of such a position: 
+16. **Amendment:** An affirmative or abstention vote from 3/4 of all Class A and B member interests shall be required to amend or restate the operating agreement or articles of organization for any reason other than that mentioned in the previous clauses in this article. 
+17. **Member Class Voting Rights:** To decide any matter connected with the business or affairs of the limited liability company, including those listed in the previous clauses of this article, the Class C members shall have no vote, and the Class A and B shares shall each have a vote that is equal in power to their ownership interest divided by the total of all Class A and B interests. (e.g. if total Class A + B interest is 60%, a 10% Class A owner shall have approximately 16.67% of the total vote.)
+18. **Board Responsibilities**: The board members shall fulfill the following duties, shall ensure all activities of the LLC are exercised in a way that demonstrates financial prudence, as well as any other duties considered to be reasonable and within the realm of such a position: 
   * The President shall be the chief executive officer of the corporation and shall preside at all meetings of the members and of the board to ensure that all orders and resolutions of the board, or resolutions of the members as permitted elsewhere in this Operating Agreement, are carried into effect.
   * The Vice-President shall have all the powers and functions of the President during the President's absence or disability, or otherwise at his request, as the second executive, and shall perform such duties as the board shall prescribe.
   * The Secretary shall record all votes and minutes of all proceedings, perform notifications to members, keep in safe custody the seal and letterhead of the LLC and administer them as necessary, maintain a full list of members and their contact details, maintain all the Association documents and records in a proper and safe manner, and perform other such duties as may be prescribed by the board. 
-  * The Treasurer shall have custody of the LLC funds, maintain complete and accurate accounts of receipts and disbursements in the LLC books using GAAP and double-entry accounting software, deposit and disburse funds as required, render an account or the financial condition of the LLC at board meetings as requested, provide financial statements, reports, information, transaction details, etc as requested by the board. The treasurer shall refrain from using single-entry accounting records, and shall ensure that the LLC exercises financial prudence. 
+  * The Treasurer shall have custody of the LLC funds, maintain complete and accurate accounts of receipts and disbursements in the LLC books using GAAP and double-entry accounting software, deposit and disburse funds as required, render an account or the financial condition of the LLC at board meetings as requested, provide financial statements, reports, information, transaction details, etc as requested by the board. The treasurer shall refrain from using single-entry accounting records, and shall ensure that the LLC exercises financial prudence. Financial prudence includes reasonable leeway in following the budget, for purposes of preserving the function and original intention of the budget. 
 18. **No Contact Clause:** If a member with voting power does not respond to requests for a vote within 15 days, and has not legitimately assigned a proxy, his vote may be considered an abstention vote for the purposes of allowing a measure to pass. 
 19. **Voting by Proxy:** Proxies for voting in absence must be communicated to the Secretary before the start of a meeting in order to be valid, and must be written by the member or their power of attorney. Proxy notifications are valid for a maximum period of 11 months. Proxy revocations must be communicated to the Secretary before being considered valid.
 20. **Scope of Activities:** To maintain its status as a pro forma corporation serving its members as a private club organization, the LLC shall not carry out business activities to serve the general public. To ensure full compliance with Mo. Rev. Stat. §§ 350.010 to 350.040, the LLC is required to maintain its status as a pro forma corporation or association, per Mo. Rev. Stat. § 350.015(7), and as a non-agricultural corporation acquiring the land for immediate use in non-farming purposes (facilitating the various activities of the members' private organization), and a non-agricultural corporation leasing land to a family farm unit or family farm corporation (the members who reside on the land who may engage in such activities), per Mo. Rev. Stat. § 350.015(9). 
@@ -83,21 +84,22 @@ john.smith@email.com
 ### **Article II: Member Interests**
 1. Homestead Community, LLC shall have three classes of interest: Class A, Class B, and Class C.  
 2. Class A and B members have rights to reside on their allocated land and other community benefits. Class C members do not have residency or access rights.
-3. Class C members may purchase additional shares until they reach the Residency Threshold of [XX%], at which point they are permitted to live on the land. 
+3. Class C members may purchase additional shares until the amount of land allocated to their membership interest reaches the Residency Threshold of 3 acres, at which point they become a Class B member and are permitted the land use afforded to Class B members as described in this Operating Agreement. 
 4. Class C has no voting rights, and no rights to profit or loss distribution. Class A and B have limited voting rights on certain items that are described in Article I and elsewhere in this Operating Agreement. 
 5. Anyone who is a member or a non-member can be assigned as a manager, in which case their voting rights take on those as described in Article 1, superceding the limitations described in this Article.
 6. Class C members have no right to participate in official group decision making and discussion processes, unless they have been elected or assigned to the board of managers. 
 7. Other restrictions or benefits of different member interests are discussed elsewhere in this Operating Agreement.
 8. A member who is found to have lied or misrepresented themselves in a way that would have otherwise made them ineligible to join the LLC under the criteria of the board of managers, may be expelled from the LLC with a forced buy-out, at the discretion of the board of managers.
-9. Colloquial class nomenclature: For internal LLC use, or as otherwise desired, classes of interest shall be colloquially referred to as "Nobleman Share," "Yeoman Share," and "Peasant Share," for Classes A, B, and C, respectively. For official purposes, the conventional nomenclature shall be used.
-10. The Class A members shall have special considerations and obligations to sell part of their initial ownership interest. \
+9. A member who has misrepresented or failed to disclose previous employment, contract(s), or otherwise receiving monetary compensation from any government, state, federal, or local, or any controversial organization such as the ACLU, SPLC, ADL, etc, or failed to disclose any representation of or affiliation with such entities, shall be expelled from the LLC via a forced buy-out and fined an amount equal to $5000 or 3 ounces of gold, at the discretion of the board of managers. 
+10. Colloquial class nomenclature: For internal LLC use, or as otherwise desired, classes of interest shall be colloquially referred to as "Nobleman Share," "Yeoman Share," and "Peasant Share," for Classes A, B, and C, respectively. For official purposes, the conventional nomenclature shall be used.
+11. The Class A members shall have special considerations and obligations to sell part of their initial ownership interest. \
   10.1. **Desired Ending Interest:** The Class A members shall decide initially what their desired ending ownership interest shall be, and the percentage shall be expressed here in this Operating Agreement at the inception of the LLC. The desired ending interest must be divisible by the standard minimum land allotment share size which is tied to a specific area of land, so that surveying is practical and lot boundaries and sizes are relatively permanent. In addition, members who purchase additional percentages equal to or above that required to be a Class B member, regardless of their class, shall only have land alloted to their share up to the portion that is divisible by the minimum share size, and any amount after that may be held or sold but cannot be tied to a piece of land, due to the difficult and impracticality of constantly re-surveying and re-mapping boundaries for minute changes in land area. 
   10.2. **Funding Obligation for Common Elements:** The funding obligation for common elements by Class A members shall be based on their desired ending ownership interest, not their actual interest at the time that the obligation is decided upon or charged. Percentages shall be based on a revised total considering the total ownership interest to be charged.  
   10.3. **Partial Share Sale Obligation:** All Class A members are hereby obligated to sell all of their ownership interest to new members as approved by the board of managers, and this sale will be automatic, with percentage distribution and funds distribution calculated by the board of managers as determined elsewhere in this Operating Agreement. The board of managers may carry out these share sales without the express approval of the Class A members, as their approval has already been obtained via this clause.  
   10.4. **Funds Management:** All funds from the sale of interest above the desired ending interest shall be deposited to the LLC's bank account. If any adjustment needs to be made, or commission paid to Class A members, this will be done within 30 days after the funds are received by the LLC. Class A members reserve the exclusive right to receive distributions of commissions based on the sale of their ownership interest above the desired ending interest.  
   10.5. **Penalty:** A Class A member who attempts to refuse compliance with the partial share sale obligation may receive monetary fines, forced buyout, legal action, or all of the above, at the discretion of the board of managers.  
   10.6. **Class C Seed Investors:** It is noted that Class C members may join the LLC from the beginning and be considered a "seed investor," however, they shall receive none of the benefits or considerations that Class A seed investors will receive.
-11. **Alternative Capital Contributions:** Class A Seed investors shall have the opportunity to provide some or all of their capital contribution in the form of sweat equity, equipment, or other assets. The following restrictions shall apply:  
+12. **Alternative Capital Contributions:** Class A Seed investors shall have the opportunity to provide some or all of their capital contribution in the form of sweat equity, equipment, or other assets. The following restrictions shall apply:  
     11.1. **Approval:** The board must approve any requests to contribute capital in a form other than USD.  
     11.2. **Necessity:** The contribution must be a part of the approved budget for the LLC, specifically the initially passed PDB and/or IDB, as referenced elsewhere in this Operating Agreement.  
     11.3. **Classification:** The board must obtain all necessary information on the alternative capital contribution, including considerations such as liability and depreciation if it is physical equipment or materials, and specify this information in the list of members and capital contributions in this Operating Agreement.  
@@ -167,11 +169,11 @@ The LLC shall follow this Action Plan during its initial period of formation:
   5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
   6. Pass a community budget, initial and yearly.  
   7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
-  8. Purchase the decided-upon land. Any references to land, access, residency, etc throughout this entire Operating Agreement, refer to this parcel of land that the LLC plans to purchase for the purposes of operation of a private club organization of homesteaders, for their own benefit.  
-  9. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned.  
-  10. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
-  11. Permit application for septic systems, wells, anything else required.  
-  12. Widespread residency and construction may begin, provided all relevant laws are complied with  
+  8. Purchase the decided-upon land. Any references to land, access, residency, etc throughout this entire Operating Agreement, refer to this parcel of land that the LLC plans to purchase for the purposes of operation of a private club organization of homesteaders, for their own benefit. Funds must be returned to the contributing members if the LLC is unable to complete the sale in the contracted period, with the option of agreeing on another property first, with a maximum period of 15 business days. 
+  10. Rough survey and planning. Homestead areas are mapped and photographed. Common elements are planned.  
+  11. Members select their homestead areas. If two members want one area, they enter a bidding process. Proceeds go to community fund.  
+  12. Permit application for septic systems, wells, anything else required.  
+  13. Widespread residency and construction may begin, provided all relevant laws are complied with  
 
 ### **Article VI: Common Elements and Contributions**  
 1. **Common elements:** The LLC shall establish common elements for the benefit of all members, including a community hub area with well, septic system, electric connection, workshop, RV hookup, driveways, perimeter fence, and administrative infrastructure.
@@ -199,17 +201,19 @@ The LLC shall follow this Action Plan during its initial period of formation:
 22. **Contribution promises in writing:** To comply with MO Rev Stat § 347.099 (2019), all contributions listed above shall be detailed in this Article to be signed by all founding members, and any future operating budgets requiring contributions from members, assuming they have been properly ratified as per this Operating Agreement, shall be codified into this Article, but shall also be presented to all affected members to be signed. 
 
 ### **Article VII: Private Elements and Land Allocation**  
-1. The LLC shall allocate land to each member, for their private use. This land and any developments on it shall be considered a private element.
-2. Class A members (founding members with a share size greater than the "land threshold" percent of ownership interest defined elsewhere in this Operating Agreement, shall have the right to select which land is allocated to them, with disputes being resolved via a bidding process.
-3. The board of managers has the final say in the planning of common elements, before allowing the remaining land to be claimed as private elements, with any remaining land reserved for Class C investors who gain access and residency rights, or to be allocated to future members as per the partial share sale obligation and sale of excess ownership interest described elsewhere in this Operating Agreement. 
-4. Members may use this land, referred to as a "Homestead Area," for the following approved activities, in line with the goals of the members' private club organization: Hunting, fishing, all manner of farming including crops and livestock, recreational activities, construction of home and farm infrastructure, "off-grid living," raising a family, home education, or any other activity that is in line with the goals and values of the LLC and the members' private club organization.  
-5. Above activities and any other activities may be restricted as elaborated upon in the "Land Use Regulations" article of this Operating Agreement.  
-6. The LLC may formally lease the land to each member, or allocate the land solely by the terms of this Operating Agreement, at the discretion of the Board of Managers depending on which solution results in the highest degree of legal compliance, with the provision that it shall not create income tax liability for members, and it shall not cause the LLC to violate Mo. Rev. Stat. §§ 350.010 to 350.040.
-7. Land allocation or access to allocated land may be revoked as part of disciplinary actions taken against the member by the board of managers for serious violations of any part of this Operating Agreement.
-8. All members of the LLC hereby waive their right to obtain or attempt to obtain a title deed or other ownership document for any portion of the LLC's land, including that leased to them or that for which they have usage or residency rights, via any legal means such as adverse possession, "squatter's law," etc. Violating this clause may result in a large fine, expulsion from the LLC, expulsion from the land, and civil penalties.
-9. **Zoning Change Contingency:** In the case that the local or county authorities change the zoning classification to include the LLC's property in a district that prohibits the construction of multiple residences on a single parcel, the LLC shall subdivide the land into parcels corresponding to each owner's lot, but shall continue to maintain ownership of all individually titled parcels, thus maintaining the smooth functioning of the community and of the LLC.
-10. **Liability of Private Elements:** Members are fully liable for anything that happens on LLC-owned land that is allocated or leased to the member, and shall not hold the LLC liable. This includes injuries, theft, and any other event that may cause a financial or criminal liability.
-11. **Ownership of Private Infrastructure:** Infrastructure or other physical assets funded by a member that is located on LLC-owned land that is leased or allocated to a member, is owned by that member, and not by the LLC nor its other members. The LLC encourages members to keep records of their private development expenditures in case the need should arise in the future for the member to use such records for his reference. 
+1. **Land Allocation to Members:** The LLC shall allocate land to each member, for their private use. This land and any developments on it shall be considered a private element.
+2. **Land Selection and Allocation to Class A Members:** Class A members (founding members with an allocated land size greater than the "residency threshold" defined elsewhere in this Operating Agreement) shall have the right to select which land is allocated to them, with disputes being resolved via a bidding process.
+3. **Land Allocation to Class B Members:** Class B members shall be given usage rights to the land that is already allocated to the share that they purchased, and must also have an allocated land size greater than the "residency threshold" defined elsewhere in this Operating Agreement.
+4. **Residency Threshold and Class C Members:** The residency threshold for using land allocated to a share is 3 acres. Any member whose membership interest is allocated an area of land that is less than 3 acres, shall not receive the rights to live on or occupy the land, and shall be considered a Class C member, with all associated benefits and obligations as described elsewhere in this Operating Agreement. 
+5. **Planning of Land Allocation:** The board of managers has the final say in the planning of common elements, before allowing the remaining land to be claimed as private elements, with any remaining land reserved for Class C investors who gain access and residency rights via a purchase of additional membership interest or as otherwise provided for in this Operating Agreement, or to be allocated to future members as per the partial share sale obligation and sale of excess ownership interest described elsewhere in this Operating Agreement. 
+6. **Members' Land Use:** Members may use this land, referred to as a "Homestead Area," for the following approved activities, in line with the goals of the members' private membership association: Hunting, fishing, all manner of farming including crops and livestock, recreational activities, construction of home and farm infrastructure, "off-grid living," raising a family, home education, or any other activity that is in line with the goals and values of the LLC and the members' private membership association.  
+7. **Restriction of Land Use:** Above activities and any other activities may be restricted as elaborated upon in the "Land Use Regulations" article of this Operating Agreement.  
+8. **Land Lease vs Allocation via Operating Agreement:** The LLC may formally lease the land to each member, or allocate the land solely by the terms of this Operating Agreement, at the discretion of the Board of Managers depending on which solution results in the highest degree of legal compliance, with the provision that it shall not create income tax liability for members, and it shall not cause the LLC to violate Mo. Rev. Stat. §§ 350.010 to 350.040.
+9. **Revocation of Land Usage Rights:** Land allocation or access to allocated land may be revoked as part of disciplinary actions taken against the member by the board of managers for serious violations of any part of this Operating Agreement.
+10. **Waiver of Adverse Possession Rights:** All members of the LLC hereby waive their right to obtain or attempt to obtain a title deed or other ownership document for any portion of the LLC's land, including that leased to them or that for which they have usage or residency rights, via any legal means such as adverse possession, "squatter's law," etc. Violating this clause may result in a large fine, expulsion from the LLC, expulsion from the land, and civil penalties.
+11. **Zoning Change Contingency:** In the case that the local or county authorities change the zoning classification to include the LLC's property in a district that prohibits the construction of multiple residences on a single parcel, the LLC shall subdivide the land into parcels corresponding to each owner's lot, but shall continue to maintain ownership of all individually titled parcels, thus maintaining the smooth functioning of the community and of the LLC.
+12. **Liability of Private Elements:** Members are fully liable for anything that happens on LLC-owned land that is allocated or leased to the member, and shall not hold the LLC liable. This includes injuries, theft, and any other event that may cause a financial or criminal liability.
+13. **Ownership of Private Infrastructure:** Infrastructure or other physical assets funded by a member that is located on LLC-owned land that is leased or allocated to a member, is owned by that member, and not by the LLC nor its other members. The LLC encourages members to keep records of their private development expenditures in case the need should arise in the future for the member to use such records for his reference. 
 
 ### **Article VIII: Land Use Regulations**  
 1. The LLC shall implement and enforce a set of land use regulations, functioning as an HOA, to maintain an enjoyable and harmonious environment.  
@@ -218,97 +222,84 @@ The LLC shall follow this Action Plan during its initial period of formation:
 4. **General Conduct:**  
    - Members and residents shall conduct themselves in a manner that promotes a safe, peaceful, and harmonious living environment.  
    - Respect for neighbors' privacy and property boundaries shall be maintained at all times.  
-
 5. **Noise and Nuisance:**  
-   - Excessive noise that disturbs the peace and quiet of the community, especially during nighttime hours, is prohibited.  
-   - Regular burning of trash and other materials is not allowed to avoid air pollution and unpleasant odors. Such burning can be organized on the last day of every month to coordinate and prevent multiple burnings.  
+   - Excessive noise that disturbs the peace and quiet of the community, especially during nighttime hours, is prohibited, with the exception of occasional agricultural or recreational activities. 
+   - Regular burning of plastic trash and other materials that cause chemical burn smells is not allowed. Such burning can be organized on the last day of every month to coordinate and prevent multiple burnings. Other types of burnings can be carried out as is reasonable. 
    - Anything that causes a "material and demonstrable" nuisance to other members can be considered as such  
    - Generators must be installed inside a baffle box or similar structure that significantly reduces the noise, after no more than a 30 day period which included occasional operation  
-   - Long-term heavy duty machinery use that will generate continuous noise could be considered a violation, please consult with LLC management before planning this type of operation.  
-
+   - Long-term heavy duty machinery use that will generate continuous noise could be considered a violation, please consult with LLC management before planning this type of operation. Normal agricultural and construction activities as part of land development and agricultural operations are not subject to this clause unless they create an extreme and unreasonable nuisance. 
+   - Use of fireworks or firecrackers is prohibited, without special permission of the board of managers, in order to prevent disruption to livestock and pets.  
 6. **Agriculture and Farming:**  
    - Members are allowed to engage in agriculture and farming activities on their property, provided they comply with local zoning and local/state/federal environmental regulations, and all other applicable local, state, and federal law  
-   - Large-scale concentrated agricultural operations that create noise, smell, or groundwater pollution are not permitted. Large hog operations in particular are worth mentioning as a probable infactor.  
-
+   - Large-scale concentrated agricultural operations that create excessive and unreasonable noise, smell, or groundwater pollution are not permitted. Large hog operations in particular are worth mentioning as a probable infactor. Normal ruminant and poultry grazing shall not be considered a violation of this clause.  
 7. **Pets and Animals:**  
    - Owners are responsible for any property damage or bodily harm that their pets or farm animals may cause.  
    - Dangerous or aggressive animals that pose a threat to the safety of residents are not allowed.
    - Dogs that are considered as "pit bulls," a colloquial and non-breed-specific classification that includes the American pit bull terrier, American Staffordshire terrier, Staffordshire bull terrier, American bulldog, and any other pure bred or mixed breed dog that is a combination of these dogs, shall be completely and forever banned from the LLC's property and all leased parcels within the LLC's property. The fine for bringing a pitbull shall be $500 and the dog shall be immediately removed. The fine for disguising the breed of a dog reasonably classified as a pit bull or pit bull mix shall be $1000 and the dog shall be immediately removed. 
-
 8. **General Aesthetics:**  
    - This being a gentlemanly community, using your property as a junkyard, or letting your infrastructure collapse or rot away, is prohibited.  
    - Prepping and collecting useful items and equipment is permitted, but hoarding is prohibited.  
-
 9. **Trash and Recycling:**  
    - Residents must dispose of trash and recyclables in a reasonable manner and timeframe.  
    - Large items or hazardous materials must be properly disposed of at designated facilities.  
-
 10. **Parking:**  
    - Vehicles must be parked in designated parking areas and not obstruct shared driveways or common areas.  
-
 11. **Common Area Usage:**  
    - Common areas, such as parks or community facilities, are for the enjoyment of all members and must be respected and kept clean.  
    - Private events or gatherings in common areas must be coordinated with the HOA.  
    - Events open to the general public may NOT be held in common areas of the property  
-   - Events open to the general public may only be held on privately allocated / leased land with prior permission of the board of managers  
-
+   - Events open to the general public may only be held on privately allocated / leased land with prior permission of the board of managers 
 12. **Home Businesses:**  
    - Home-based businesses that do not require physical client access to the property are allowed, provided they comply with local laws and regulations  
    - Home-based businesses that require physical client access to the common elements of the property must receive prior permission from the board of managers, which may place limits or requirements on access, or prohibit access altogether   
    - Home-based businesses on allocated land that has direct public road front may allow client access without prior permission from the board of managers, provided that it does not create a material and demonstrable nuisance to the other members, and provided that it does not disrupt the security protection of any community-funded perimeter fence  
-
 13. **Rental Policy:**   
       13.1 - **Purpose and Scope:**  
    This Rental Policy is established by the LLC to regulate and manage rental properties within the community. The policy aims to maintain the quality of living, preserve property values, and promote a safe and harmonious environment for all residents.  
-
       13.2 - **Rental Approval Process:**  
       - Prior to leasing a property within the community, the homeowner (Landlord) must obtain written approval from the LLC management. The Landlord shall submit a rental application on behalf of the prospective tenant to the LLC for review.  
       - The owner/lesee (LLC member) may not advertise or rent to the general public, only to PMA members or known individuals who meet the criteria to be approved for PMA membership  
-
       13.3 - **Rental Application Requirements:**  
    The member must submit a rental application provided by the board of managers, and it must include the following information about the prospective tenant(s): Full name, contact  information (phone and email), proof of identification (e.g., driver's license or passport), indication of previous employment/income/rental/criminal history at the board's discretion  
-
       13.4 - **Tenant Screening and Approval:**  
       - The LLC management will conduct a tenant screening process to assess the prospective tenant's suitability for residency within the community.  
       - The LLC management shall approve or deny the rental application within a reasonable time frame.  
-
       13.5 - **Rental Term and Renewals:**   
       - Rental agreements shall be for a minimum term of three (3) months.   
       - If the tenant intends to renew the lease, the member must notify the LLC management in writing before the lease expiration date for reevaluation and approval.  
-     
       13.6 - **Responsibility for Compliance:**  
       - The member is responsible for ensuring that the tenant complies with all LLC rules, regulations, and operating agreement.  
       - The member must provide a copy of the LLC's rules and regulations to the tenant at the beginning of the lease term.  
       - Tenants must adhere to all community rules and regulations and shall be held accountable for any violations.  
-      - The member is responsible for addressing and resolving any tenant violations promptly.  
-     
+      - The member is responsible for addressing and resolving any tenant violations promptly.      
       13.7 - **Right to Deny Rental:**  
        - The LLC management reserves the right to deny any rental application that does not meet their established criteria or poses a potential risk to the community.  
-
       13.8 - **Enforcement and Penalties:**  
        - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.  
-
 14. **Septic and Graywater Compliance:**  
-    - Members must comply with all septic and graywater/blackwater regulations of the local county and of the Missouri State Dept. of Public Health, as well as the EPA. Any fine levied on the LLC because of non-compliance of that member shall be levied upon the member by the board of managers, with possible additional fines or disciplinary action.
-   
+    - Members must comply with all septic and graywater/blackwater regulations of the local county and of the Missouri State Dept. of Public Health, as well as the EPA. Any fine levied on the LLC because of non-compliance of that member shall be levied upon the member by the board of managers, with possible additional fines or disciplinary action.   
 15. **Volatile Liquids Storage Compliance:** 
     - In order to comply with EPA regulations regarding storage of such volatile and/or toxic liquids including but not limited to used motor oil, vegetable oil, gasoline, and diesel fuel, the LLC board of managers shall each year at the end of the year, solicit from each member an estimate of the maximum quantity of such liquids he plans to store on the LLC's property.  
     - The board will use this information to determine if a self-certified spill prevention plan is required by the EPA, and if so, will create such a plan and engage in any administrative actions necessary to ensure full compliance with the law.
     - Members are required to furnish such information to the board of managers upon request.  
-
 16. **Water System Compliance:**  
     - Any member, or the LLC as a whole, if they operate a water system that provides drinking water to more than 15 connections or more than 25 people, shall comply with all EPA monitoring and reporting requirements as well as any other legal requirements that may apply.
-    - Members operating a noncompliant system that receives a fine from the EPA or other governmental authority shall be required to pay the fine personally.
-   
+    - Members operating a noncompliant system that receives a fine from the EPA or other governmental authority shall be required to pay the fine personally.    
 17. **Perimeter fence:**  
     - All members who are allocated or leased land that is adjacent to a perimeter of the property, shall be required to, within 1 year of  their purchase of the property, erect a fence along the perimeter. 
-    - The fence must use metal stakes, but may use live trees as posts where convenient. 
-    - The fence must be 3+ rows of barbed wire, or galvanized cattle fencing/chain link with 1 row of barbed wire at the top. 
-    - Members by the public road or close to it are encouraged to use cattle mesh and more bared wire to prevent entry, whereas members by the back parts are encouraged to use barbed wire with possibly fewer rows to encourage entry of wildlife for hunting. 
-    - The LLC shall be responsible for the installation of a gate at the public road entry. 
-    - The LLC may consider funding the fence portions along perimeter-adjacent lots that are not allocated at the time of the purchase of the property.  
-  
-18. **Enforcement and Mediation:**  
+    - The fence must function as a physical barrier against easy entry by a human, and must have barbed wire or equivalent at the top. Any openings must have a lockable gate. 
+    - The LLC shall be responsible for the installation of a gate at any public road entries. 
+    - The LLC may consider funding the fence portions along perimeter-adjacent lots that are not allocated at the time of the purchase of the property.
+    - The LLC hereby adopts a fence-out policy for grazing animals, wherein each member must erect a fence if they wish to keep grazing ruminant animals and poultry out of their land. 
+
+18. **Firearm Safety Rules:** Members must follow these rules to ensure the safety of others present on the property. 
+  - The board of managers shall select an appropriate site to be used as the community shooting range. 
+  - Members should use, but are not required to use, the community shooting range.
+  - Members must not shoot in the direction of another member's property.
+  - Members must always check for a safe backstop before shooting. The backstop must be solid enough to capture fired bullets, and must be constructed of a material that will not let the projectile ricochet. 
+  - Members must remember that projectiles can travel for long distances. For example, a .22-caliber bullet can travel over 1½ miles. A centerfire bullet can travel several miles. Small shot can travel 200–350 yards. Larger shot can travel over 600 yards. Slugs can travel over 800 yards.
+  - Members must be sure of the target and what is in front of it and beyond it. Making sure you have a safe backstop helps ensure that the projectile cannot hit an unintended target. If you cannot see what lies beyond the target, do not take the shot.
+19. **Enforcement and Mediation:**  
     - The LLC shall use a mediation-first approach to resolve disputes among members.  
     - Fines or penalties may be imposed for violations of the rules, with appropriate due process.  
     - The board of managers shall administer these judgments, and may skip steps if the severity of the infraction warrants it:   
@@ -454,6 +445,8 @@ This operating agreement shall be governed by and construed in accordance with t
 ### **Article XVII: Members** 
 The following is a list of LLC members. The board of managers shall maintain a historical record of all past members and transfers of membership interests. The member list shall include capital contributions along with pertinent details of each item - form, description, value, date, depreciation, liabilities, etc. 
 
+* Please note that these are invented names for the purposes of example. 
+
 1. **Nobleman Share (Founder):**
    - Name: John Smith
    - Membership interest: 40%
@@ -507,12 +500,7 @@ The following is a list of LLC members. The board of managers shall maintain a h
 
 #### Notes: 
 
+
+
+
 #### Added (to notify: 
-  * Pit bull ban (following information and statistics from this site: [https://blog.dogsbite.org/] )
-  * Contingency for Change of Zoning - provides us with an alternative zoning solution in case the local council changes our zoning classification and doesn't allow for any future new houses on a single parcel. There is an easy way out of this that does not affect our ability to build, though it has a small cost. 
-  * Members, and not the LLC, are liable for anything that happens on the land allocated to them
-  * Added a clause to the Code of Conduct requiring actual evidence to be used for accusations of financial impropriety, thus eliminating another common route of disruption by agents or problematic members. Members or managers may bring accusations of financial impropriety if they have evidence, and if the accusations are not vague and general. Problematic members in an organization often create dispute by endlessly accusing financial impropriety when there is none, creating correspondence fatigue. 
-  * Included obligation to erect a perimeter fence (barbed wire) for lot owners on the perimeter, so we don't have to include in the community budget - a minor expense for each person vs a major addition to the budget.
-  * Clarified that assets and infrastructure on a private lot are the property of the corresponding member and not of the LLC.
-  * Clarified that the treasurer should use double entry and not single entry accounting, and GAAP. Also that the board must exercise financial prudence.
-  * Added a clause regarding internal roads being considered as a common good for the entire community, regardless of how many lot owners it serves, since all members need to be able to access their lots, in order to ensure the highest chance of high rates of occupancy and therefore the existence of a neighborhood community. 
