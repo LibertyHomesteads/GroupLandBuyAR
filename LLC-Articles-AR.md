@@ -1,6 +1,6 @@
 # Homestead Community, LLC 
 #### Founding Documents: Articles of Organization and LLC Operating Agreement
-  
+#### RTTL Ozarks Chapter: Arkansas   
        
 ## Articles of Organization
 
@@ -11,18 +11,18 @@ The name of the Limited Liability Company is Homestead Community, LLC.
 The duration of the LLC shall be perpetual. 
 
 ### **Article III: Purpose**
-The primary purpose of Homestead Community, LLC is to operate as a private club organization formed by its members, and facilitate their ability to homestead and engage in agricultural activities in a natural environment. 
+The primary purpose of Homestead Community, LLC is to operate as a private club organization formed by its members, and facilitate their agricultural and homesteading activities. 
 
 ### **Article IV: Registered Agent**
 The name and street address of the initial registered agent of the LLC are as follows:  
 Registered Agent Name: John Doe  
-Address: 123 Main Street, Springfield, MO 12345  
+Address: 123 Main Street, Little Rock, AR 12345  
 
 ### **Article V: Management**
 The members of Homestead Community, LLC shall vest its management powers in a board of managers, which will be specified in the Operating Agreement. 
 
 ### **Article VI: Jurisdiction**
-The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, and it shall abide by all applicable laws and regulations.
+The jurisdiction of Homestead Community, LLC shall be in the State of Arkansas, and it shall abide by all applicable laws and regulations.
 
 ## LLC Operating Agreement
 ### Homestead Community, LLC 
@@ -31,12 +31,12 @@ The jurisdiction of Homestead Community, LLC shall be in the State of Missouri, 
 **NAICS code:** 53131   
 **LLC Effective Date:** September 11, 2023  
 **Business email:** homesteadcommunity@email.com  
-**Address:** 111 Long Rd, Thayer MO 65791  
+**Address:** 111 Long Rd, Hardy AR 72542  
 **Business Phone:** +1 (111) 555-1212  
    
 **Registered agent:**  
 John Smith  
-111 Main St, Thayer, Missouri 65791  
+111 Main St, Hardy, AR 72542  
 +1 (111) 555 1212  
 john.smith@email.com    
   
@@ -128,13 +128,13 @@ The following procedures shall be followed when transferring ownership interest 
    1.2 - The application shall be sent to all members with Class A and B interests for review. As per the Share Transfer Restrictions, it is up to the board to approve with a 2/3 majority vote.   
    1.3 - If approval is reached, the board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).  
    1.4 - The buyer will pay a fee of $200 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
-   1.5 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.   
+   1.5 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Arkansas state statutes.   
    1.6 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.  
 2. **In-House Ownership Transfer:** When a single or multiple LLC member(s) wish to voluntarily sell their share to an existing LLC member, the following procedure shall be followed:  
    2.1 - If the purchasing member is in good standing with the LLC according to the board of managers, no approval is required. If the purchasing member is not in good standing, the transfer is prohibited.  
    2.2 - The buyer wil pay a fee of $150 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
    2.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).   
-   2.4 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.   
+   2.4 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Arkansas state statutes.   
    2.5 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.     
 3. **Seed Investor Ownership Transfer:** When a non-member wishes to buy an ownership interest of the LLC as part of the pre-arranged Class A seed investor interest sales outlined in Article IX: Seed Investor Ownership Interests, the following procedure shall be followed:  
    3.1 - The offering buyer shall fill out a standard application provided by the board of managers.  
@@ -143,7 +143,7 @@ The following procedures shall be followed when transferring ownership interest 
    3.4 - The buyer will pay a fee of $250 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs.  
    3.4 - The board of managers will determine the appropriate division of interest to be sold by each Class A member, which will be calculated according to the weighting of their original investment percentage.  
    3.4 - The board of managers will determine the appropriate division of funds. Class A members will receive some or all of the funds if the total required contribution of their required ending interest is less than their current total amount invested. Otherwise, funds will be applied to development as per the budget.  
-   3.5 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.  
+   3.5 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Arkansas state statutes.  
    3.6 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.   
    
 6. **Involuntary Buy-out:** When a member is forced to sell all or part of their share due to a board or member vote following the relevant clauses in the Operating Agreement, the following procedure shall be followed:  
@@ -152,7 +152,7 @@ The following procedures shall be followed when transferring ownership interest 
     6.3 - The board of managers will provide a standard Term Sheet and Purchase Agreement in coordination with the seller(s).  
     6.4 - The buyer will pay a fee of $100 to the LLC, to cover administration expenses regarding the transfer of ownership interest, and other overhead administration costs. The board of managers may waive this fee at their discretion if the circumstances warrant it.  
     6.5 - If the member being forced to sell refuses to sign the necessary paperwork to sell his share, the board of managers will take legal action against the member, forcing them to follow the Operating Agreement.  
-    6.6 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Missouri state statutes.  
+    6.6 - Assuming payment is made, and the purchase agreement is signed, the board shall sign and issue a new Operating Agreement with the sole changes being the new ownership, and is hereby authorized to do so. The board shall issue and require the signing of any contribution document as required by this Operating Agreement and Arkansas state statutes.  
     6.7 - Class A and B members will be notified; sale and other information will be recorded appropriately. Any government reporting requirements due to the new ownership will be complied with by the board of managers.  
 
 7. **Plat use compliance:** The LLC, due to not engaging in land sales, is not subject to MO Rev State § 89.450, however in order to ensure compliance with any technicalities or creative interpretations of that or relating statues, shall not use any unapproved plat or map resembling a plat in its communication with current or potential LLC members, without including a disclaimer that such a map is not a recorded and approved plat nor is it being presented as a registered plat.  
@@ -166,7 +166,7 @@ The LLC shall follow this Action Plan during its initial period of formation:
   2. Gather a group together. Research and determine several possible land candidates. Make financial pledges and agree upon a general property size / price.  
   3. Finalize LLC articles of organization and operating agreement, vote on officer roles. Include vision, mission, and goals in the operating agreement. 
   4. Raise funds for initial administrative expenses, pass initial administrative budget. 
-  5. Consult a business lawyer and a real estate lawyer in Missouri, for a professional assessment of the legal situation of our planned project.  
+  5. Consult a business lawyer and a real estate lawyer in Arkansas, for a professional assessment of the legal situation of our planned project.  
   6. Pass a community budget, initial and yearly.  
   7. Register an LLC. Deposit the funds in the LLC's bank account. Any members who at this point cannot participate, are replaced, and this clause hereby authorizes a forced buy-out at a token price of $1.  
   8. Purchase the decided-upon land. Any references to land, access, residency, etc throughout this entire Operating Agreement, refer to this parcel of land that the LLC plans to purchase for the purposes of operation of a private club organization of homesteaders, for their own benefit. Funds must be returned to the contributing members if the LLC is unable to complete the sale in the contracted period, with the option of agreeing on another property first, with a maximum period of 15 business days. 
@@ -277,7 +277,7 @@ The LLC shall follow this Action Plan during its initial period of formation:
       13.8 - **Enforcement and Penalties:**  
        - Violation of this Rental Policy may result in penalties, fines, or other enforcement actions, as outlined in the LLC's operating agreement.  
 14. **Septic and Graywater Compliance:**  
-    - Members must comply with all septic and graywater/blackwater regulations of the local county and of the Missouri State Dept. of Public Health, as well as the EPA. Any fine levied on the LLC because of non-compliance of that member shall be levied upon the member by the board of managers, with possible additional fines or disciplinary action.   
+    - Members must comply with all septic and graywater/blackwater regulations of the local county and of the Arkansas State Dept. of Public Health, as well as the EPA. Any fine levied on the LLC because of non-compliance of that member shall be levied upon the member by the board of managers, with possible additional fines or disciplinary action.   
 15. **Volatile Liquids Storage Compliance:** 
     - In order to comply with EPA regulations regarding storage of such volatile and/or toxic liquids including but not limited to used motor oil, vegetable oil, gasoline, and diesel fuel, the LLC board of managers shall each year at the end of the year, solicit from each member an estimate of the maximum quantity of such liquids he plans to store on the LLC's property.  
     - The board will use this information to determine if a self-certified spill prevention plan is required by the EPA, and if so, will create such a plan and engage in any administrative actions necessary to ensure full compliance with the law.
@@ -382,10 +382,11 @@ The LLC shall follow this Action Plan during its initial period of formation:
 
 8. **Confidentiality of Audit Reports:** Audit reports and any sensitive financial information obtained through audits shall be treated as confidential and shall not be disclosed to non-members or shared outside the LLC, except as required by law, and only after consulting with LLC management to obtain a legal opinion on the legality of the request. .
 
-9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement. 
+9. **Dispute Resolution:** Any disputes or disagreements regarding access to records, audits, or examinations shall be resolved in accordance with the dispute resolution provisions outlined in the LLC operating agreement.  
 
-10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.
-11. **Document Conveyance:** As allowed by MO Rev Stat § 347.051(2) (2019), such documents as referred to in the cited Missouri statute must only be delivered electronically to Class A and B members, within a period of 30 days, and should not be sent to Class C members unless otherwise required by law. 
+10. **Record Retention:** The LLC shall maintain all records related to financial transactions, business activities, and decision-making for a period of 10 years, or as otherwise required by applicable state or federal laws.  
+    
+11. **Document Conveyance:** If Arkansas state statute should require that any LLC-related documents must be delivered via mail to all members unless otherwise provided for in the Operating Agreement, then the LLC hereby makes clear that such documents must only be delivered electronically to Class A and B members, within a period of 30 days, and should not be sent to Class C members unless otherwise required by law. 
 
 
 ### **Article XIII: Force Majeure**
@@ -399,13 +400,13 @@ This "Force Majeure" clause shall be applied to address unforeseen and catastrop
 
 4. **Alternative Currency and Cash Management:** In the event of a bank collapse or loss of confidence in the traditional or electronic banking system, the LLC may, at its sole discretion, implement cash-only, gold, silver, and/or barter-based cash management and accounting procedures to ensure the continuity of financial operations and transactions. 
 
-5. **Absence of Legal Framework** In the event that the United States Government or the Missouri State Govenment are unable to maintain a functioning legal system in geopolitically challenging circumstances, this LLC and its member will continue to operate under the open-source standard "ULEX Law," which is a collection of Uniform Law Commission and other generally accepted legal texts and case law, based on common law and uniform law standards. The LLC will also continue to operate under Missouri's LLC statutes, since this document was written under their jurisdiction.  
+5. **Absence of Legal Framework** In the event that the United States Government or the Arkansas State Govenment are unable to maintain a functioning legal system in geopolitically challenging circumstances, this LLC and its member will continue to operate under the open-source standard "ULEX Law," which is a collection of Uniform Law Commission and other generally accepted legal texts and case law, based on common law and uniform law standards. The LLC will also continue to operate under Arkansas's LLC statutes, since this document was written under their jurisdiction.  
 
 6. **Access and Residency Rights for Class C Members:** In the case of serious economic and geopolitical situations or any catastrophic events as described in the definition of Force Majeure Events, the board of managers may, by a unanimous vote, grant access and residency rights to Class C members. The board shall have the authority to determine the scope and duration of such access and residency rights based on the severity and nature of the Force Majeure Event.
 
 7. **Mandatory Access and Residency Rights:** Notwithstanding any other provision in the operating agreement, the board of managers is mandated to grant access and residency rights to Class C members in the following very severe circumstances:
    a. Active war in the United States. 
-   b. Widespread and long-term societal disruption in Missouri due to natural disasters or catastrophic events.
+   b. Widespread and long-term societal disruption in Arkansas or southern Missouri due to natural disasters or catastrophic events.
    c. Solar flare or electromagnetic pulse (EMP) causing substantial damage to the planet's grid or critical infrastructure. 
 
 8. **Notification and Documentation:** In the event of the activation of this Force Majeure clause and the granting of access and residency rights to Class C members, the board shall provide written notification to all members, detailing the circumstances and the duration of the granted rights. Documentation of the board's decision shall be maintained in the LLC's records.
@@ -415,7 +416,7 @@ This "Force Majeure" clause shall be applied to address unforeseen and catastrop
 ### **Article XIV: Dissolution**
 In the event of LLC dissolution, the assets shall be distributed in accordance with the Share Transfer Restrictions and the interests of the members as specified elsewhere in this Operating Agreement. The following procedures shall be followed:  
 
-1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with an affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes. Upon approval, the members shall proceed with the winding-up process in accordance with applicable Missouri state laws and this operating agreement. 
+1. **Voluntary Dissolution:** The LLC may be dissolved voluntarily with an affirmative or abstention vote from all Class A and Class B member interests minus a possible 5% of dissenting votes. Upon approval, the members shall proceed with the winding-up process in accordance with applicable Arkansas state laws and this operating agreement. 
 
 2. **Involuntary Dissolution:** The LLC may be dissolved involuntarily under circumstances allowed by law, including but not limited to court order, bankruptcy, or loss of required licenses. In such cases, the dissolution shall be carried out in compliance with the applicable state laws governing LLC dissolution, and according to this operating agreement as is possible. Please note that a member withdrawing from the LLC shall not automatically trigger a dissolution.  
 
@@ -428,7 +429,7 @@ In the event of LLC dissolution, the assets shall be distributed in accordance w
 
 7. **Termination of Operating Agreement:** The dissolution of the LLC shall result in the termination of this operating agreement, except for provisions that, by their nature, survive termination, including but not limited to any confidentiality, non-compete, and indemnification clauses.
 
-8. **Notice to State Authorities:** Upon completion of the winding-up process, the managers shall promptly file the appropriate dissolution documents with the Missouri state authorities to formalize the dissolution of the LLC. 
+8. **Notice to State Authorities:** Upon completion of the winding-up process, the managers shall promptly file the appropriate dissolution documents with the Arkansas state authorities to formalize the dissolution of the LLC. 
 
 9. **Dispute Resolution:** Any disputes or disagreements arising from the dissolution process shall be resolved in accordance with the dispute resolution provisions outlined in this operating agreement.
 
@@ -440,7 +441,7 @@ This dissolution clause shall govern the dissolution process of the LLC and shal
 This operating agreement may be amended with the consent or abstention vote of 3/4 of the Class A and B members.
 
 ### **Article XVI: Governing Law**
-This operating agreement shall be governed by and construed in accordance with the laws of the State of Missouri. 
+This operating agreement shall be governed by and construed in accordance with the laws of the State of Arkansas. 
 
 ### **Article XVII: Members** 
 The following is a list of LLC members. The board of managers shall maintain a historical record of all past members and transfers of membership interests. The member list shall include capital contributions along with pertinent details of each item - form, description, value, date, depreciation, liabilities, etc. 
